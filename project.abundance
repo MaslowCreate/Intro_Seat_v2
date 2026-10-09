@@ -4,12 +4,6 @@
   "y": 0,
   "uniqueID": "id-1038",
   "name": "Intro_Seat_v2",
-  "ioValues": [
-    {
-      "name": "height",
-      "ioValue": 10
-    }
-  ],
   "topLevel": true,
   "allAtoms": [
     {
@@ -21,26 +15,6 @@
         {
           "name": "number or geometry",
           "ioValue": "__GEOMETRY_INPUT__"
-        }
-      ]
-    },
-    {
-      "atomType": "Input",
-      "x": 0,
-      "y": 0.4,
-      "uniqueID": "id-1041",
-      "name": "height",
-      "options": []
-    },
-    {
-      "atomType": "Circle",
-      "x": 0.2,
-      "y": 0.4,
-      "uniqueID": "id-1044",
-      "ioValues": [
-        {
-          "name": "diameter",
-          "ioValue": 10
         }
       ]
     }
